@@ -10,15 +10,15 @@ Below is a comprehensive roadmap that outlines the key steps and topics you shou
 # 3. Data Visualization
 One of the most popular data visualization libraries in Python is Matplotlib, which forms the foundation for other libraries like Seaborn and Plotly.
 ### Matplotlib
-- [ ] Bar Chart, Pie Chart, Histogram, Scatter Plot
-- [ ] Format Strings in Plots
-- [ ] Label Parameters, Legend
+- [ ] ![Bar Chart, Pie Chart, Histogram, Scatter Plot](https://www.geeksforgeeks.org/matplotlib-tutorial/)
+- [ ] ![Format Strings in Plots](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+- [ ] ![Label Parameters, Legend](https://www.dataquest.io/cheat-sheet/matplotlib-cheat-sheet/)
 
 ### Seaborn
-- [ ] Wide Range of Plot Types
-- [ ] Statistical Enhancements
-- [ ] Categorical Data Visualization
-- [ ] Customization and Theming
+- [ ] [Wide Range of Plot Types](https://seaborn.pydata.org/tutorial/function_overview.html)
+- [ ] [Statistical Enhancements](https://seaborn.pydata.org/tutorial/introduction)
+- [ ] [Categorical Data Visualization](https://seaborn.pydata.org/tutorial/categorical.html)
+- [ ] [Customization and Theming](https://seaborn.pydata.org/tutorial/objects_interface.html)
 
 Additionally, you can learn Ploty and **Tableau** if you want.
 
@@ -30,22 +30,22 @@ Statistics for machine learning come as a significant tool that studies this dat
 - [x] Probability Distribution
 - [x] Gaussian Normal Distribution
 - [x] Measure of Frequency and Central Tendency
-- [ ] Measure of Dispersion
-- [ ] Skewness and Kurtosis
-- [ ] Normality Test
-- [ ] Regression Analysis
-- [ ] Linear and Non-Linear Relationship with Regression
-- [ ] ANOVA
-- [ ] Homoscedasticity
-- [ ] Goodness of Fit
+- [ ] ![Measure of Dispersion](https://www.youtube.com/watch?v=bysYeAKxMZY)
+- [ ] ![Skewness and Kurtosis](https://www.youtube.com/watch?v=yjOOzypI-IQ&list=PLhR6WnLrVh2-2mGeupKHHCorxadW3INXP)
+- [ ] ![Normality Test](https://www.youtube.com/watch?v=02I84i8Knas)
+- [ ] ![Regression Analysis](https://blog.minitab.com/en/adventures-in-statistics-2/regression-analysis-tutorial-and-examples)
+- [ ] ![Linear and Non-Linear Relationship with Regression](https://www.youtube.com/watch?v=nnbhCr8vb18) and ![paper](https://people.revoledu.com/kardi/tutorial/Regression/GoodnessOfFit.html)
+- [ ] ![ANOVA](https://www.youtube.com/watch?v=MzpyfWsatcQ) or ![this](https://analystprep.com/study-notes/cfa-level-2/quantitative-method/anova-table-and-measures-of-goodness-of-fit/)
+- [ ] ![Homoscedasticity](https://www.geeksforgeeks.org/homoscedasticity-in-regression/) and ![tutorials](https://spureconomics.com/course/heteroscedasticity-autocorrelation-and-multicollinearity-basics/)
+- [ ] ![Goodness of Fit](https://www.geeksforgeeks.org/evaluating-goodness-of-fit-for-nonlinear-models-methods-metrics-and-practical-considerations/) and ![this](https://www.graphpad.com/series/understanding-regression-goodness-of-fit)
 
 ### Inferential Statistics
 - [x] t-Test, z-Test
 - [x] Hypothesis Testing
 - [x] Type I and Type II errors
-- [ ] One-way and Two way ANOVA
-- [x] Chi-Square Test
-- [ ] Implementation of continuous and categorical data
+- [ ] ![One-way and Two way ANOVA](https://www.youtube.com/watch?v=SnlOUfT55So)
+- [ ] ![Chi-Square Test](https://www.youtube.com/watch?v=7_cs1YlZoug)
+- [ ] ![Implementation of continuous and categorical data](https://www.youtube.com/watch?v=NirI_nTaIJQ)
 
 # 5. Machine Learning
 To become proficient in machine learning algorithms, the most effective approach is to utilize the Scikit-Learn framework. Scikit-Learn provides a wealth of pre-defined algorithms that can be easily implemented by creating class objects. Familiarizing yourself with these algorithms is essential, especially those falling under the categories of Supervised and Unsupervised Machine Learning:
