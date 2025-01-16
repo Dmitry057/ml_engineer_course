@@ -1,5 +1,3 @@
-# Это план курса, с помощью которого я получу офер в Industrial
-
 # Advanced Machine Learning Engineer Roadmap
 A Full Stack ML (Machine Learning) Roadmap involves learning the necessary skills and technologies to become proficient in all aspects of machine learning, including data collection and preprocessing, model development, deployment, and maintenance.
 
